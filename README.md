@@ -30,59 +30,59 @@ Designing models with best practices, maintaining database and Write clean and m
 # Screenshots
 <h1>Home </h1>
 <div style="display:flex;" >
-<img src="Screenshot/SS1.png" width="40%"/>
-<img src="screenshot/SS2.pmg" width="40%"/>
+<img src="Screenshots/SS1.png" width="40%"/>
+<img src="screenshots/SS2.pmg" width="40%"/>
 </div>
 <h1>Navbar and Study Material </h1>
 <div style="display:flex;" >
-<img src="Screenshot/SS3.png" width="40%"/>
-<img src="Screenshot/SS4.png" width="40%" />
+<img src="Screenshots/SS3.png" width="40%"/>
+<img src="Screenshots/SS4.png" width="40%" />
 </div>
 
 <br>
 <h1>View Lectures and See Members</h1>
 <div style="display:flex;" >
-<img src="Screenshot/SS5.png" width="40%"/>
-<img src="Screenshot/SS6.png" width="40%" />
+<img src="Screenshots/SS5.png" width="40%"/>
+<img src="Screenshots/SS6.png" width="40%" />
 </div>
 
 <br>
 <h1>Create Noticeboard and Lecture Details</h1>
 <div style="display:flex;" >
-<img src="Screenshot/SS7.png" width="40%"/>
-<img src="Screenshot/SS8.png" width="40%" />
+<img src="Screenshots/SS7.png" width="40%"/>
+<img src="Screenshots/SS8.png" width="40%" />
 </div>
 
 <br>
 <h1>Take attendance and Upload Resource</h1>
 <div style="display:flex;" >
-<img src="Screenshot/SS9.png" width="40%"/>
-<img src="Screenshot/SS10.png" width="40%" />
+<img src="Screenshots/SS9.png" width="40%"/>
+<img src="Screenshots/SS10.png" width="40%" />
 </div>
 
 <br>
 <h1>View Resource and Comment on Resources</h1>
 <div style="display:flex;" >
-<img src="Screenshot/SS11.png" width="40%"/>
-<img src="Screenshot/SS12.png" width="40%" />
+<img src="Screenshots/SS11.png" width="40%"/>
+<img src="Screenshots/SS12.png" width="40%" />
 </div>
 
 <br>
 <div style="display:flex;" >
-<img src="Screenshot/SS13.png" width="40%"/>
-<img src="Screenshot/SS14.png" width="40%" />
+<img src="Screenshots/SS13.png" width="40%"/>
+<img src="Screenshots/SS14.png" width="40%" />
 </div>
 
 <br>
 <div style="display:flex;" >
-<img src="Screenshot/SS15.png" width="40%"/>
-<img src="Screenshot/SS16.png" width="40%" />
+<img src="Screenshots/SS15.png" width="40%"/>
+<img src="Screenshots/SS16.png" width="40%" />
 </div>
 
 <br>
 <div style="display:flex;" >
-<img src="Screenshot/SS17.png" width="40%"/>
-<img src="Screenshot/SS18.png" width="40%" />
+<img src="Screenshots/SS17.png" width="40%"/>
+<img src="Screenshots/SS18.png" width="40%" />
 </div>
 
 ## Credits
