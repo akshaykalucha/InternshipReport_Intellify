@@ -31,7 +31,7 @@ Designing models with best practices, maintaining database and Write clean and m
 <h1>Home </h1>
 <div style="display:flex;" >
 <img src="Screenshots/SS1.png" width="40%"/>
-<img src="screenshots/SS2.pmg" width="40%"/>
+<img src="screenshots/SS2.png" width="40%"/>
 </div>
 <h1>Navbar and Study Material </h1>
 <div style="display:flex;" >
