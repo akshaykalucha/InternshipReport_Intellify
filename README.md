@@ -22,7 +22,7 @@ Designing models with best practices, maintaining database and Write clean and m
 
 8. Default testing code is deployed on Heroku with Postgres db to store user data and uses Django-Staticfiles to store static data.
 
-9. App consist of three different microservice(app), “Accounts”, “Institute”, “Quiz”.
+9. App consisted different microservices each with scalable database deployed independently.
 
 10. Each app serves different purpose ranging from user auth, to online classrooms to quiz creation to live attendance mechanism.
 
